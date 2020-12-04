@@ -1,0 +1,3 @@
+Here is a brief description of the tasks 
+-obtain data
+-do an exploratory analysis
